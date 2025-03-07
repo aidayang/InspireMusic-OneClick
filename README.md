@@ -1,0 +1,2 @@
+# InspireMusic-OneClick
+InspireMusic文本转音乐软件免安装一键启动整合包
